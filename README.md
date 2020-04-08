@@ -9,22 +9,31 @@ https://pushingbhutons.com<br />
 
 
 
+## ZEEMZ: Pandemic Patch
+
+ZEEMZ: Pandemic Patch v.0 [LIVE]<br />
+(Converted faucet for COVID19 Global Hackathon)<br />
+https://faucet.zeemz.xyz/pandemicpatch/index.html<br />
+
+ZEEMZ: Pandemic Patch v.0 [development]<br />
+(Converted faucet for COVID19 Global Hackathon)<br />
+https://github.com/pushingbhutons/zeemzPandemic<br />
+
+ZEEMZ: Pandemic Patch [IRIS-COVID]<br />
+(IRIS-VA becomes IRIS-med to fight COVID)<br />
+https://github.com/pushingbhutons/IRIS-COVID<br />
+
+
+
 ## ZEEMZ: The Versipisces Secret
 
 ZEEMZ: The Versipisces Secret [LIVE]<br />
 (pre-alpha site)<br />
 https://zeemz.xyz<br />
 
-
-ZEEMZ: Pandemic Patch v.0 [LIVE]<br />
-(Converted faucet for COVID19 Global Hackathon)<br />
-https://faucet.zeemz.xyz/pandemicpatch/index.html<br />
-
-
 ZEEMZ: The Versipisces Secret [ANN]<br />
 (announcement for augmented reality, blockchain game)<br />
 https://github.com/pushingbhutons/zeemz-ann<br />
-
 
 ZEEMZ: The Canon<br />
 (Official ZEEMZ stories, shorts, flashes, poems, infographics, videos, etc)<br />
@@ -45,14 +54,6 @@ https://faucet.zeemz.xyz<br />
 ZEEMZ: IRIS-VA<br /> 
 (Voice assistant for ZEEMZ players, uses SnipsAIR)<br />
 https://github.com/pushingbhutons/irisRead<br />
-
-ZEEMZ: Pandemic Patch v.0 [development]<br />
-(Converted faucet for COVID19 Global Hackathon)<br />
-https://github.com/pushingbhutons/zeemzPandemic<br />
-
-ZEEMZ: Pandemic Patch [IRIS-COVID]<br />
-(IRIS-VA becomes IRIS-med to fight COVID)<br />
-https://github.com/pushingbhutons/IRIS-COVID<br />
 
 ZEEMZ: ARG site (Info only)<br />
 (In-game cryptonote-based token for players that choose to be "pirates")<br />
