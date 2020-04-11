@@ -1,4 +1,4 @@
-# Links
+# tPBV & ZEEMZ Links
 Pu'Shing Bhu'Tons and ZEEMZ links to the 'Verse
 
 ## The Pu'Shing Bhu'Tons Series
@@ -19,8 +19,11 @@ ZEEMZ: Pandemic Patch v.0 [development]<br />
 (Converted faucet for COVID19 Global Hackathon)<br />
 https://github.com/pushingbhutons/zeemzPandemic<br />
 
-ZEEMZ: Pandemic Patch [IRIS-COVID]<br />
-(IRIS-VA becomes IRIS-med to fight COVID)<br />
+ZEEMZ: Pandemic Patch v.1 [LIVE - coming soon]
+
+
+ZEEMZ: Pandemic Patch [IRIS-COVID development]<br />
+(IRIS-VA becomes IRIS-med to fight COVID / built for COVIDathon)<br />
 https://github.com/pushingbhutons/IRIS-COVID<br />
 
 
@@ -59,7 +62,7 @@ ZEEMZ: ARG site (Info only)<br />
 (In-game cryptonote-based token for players that choose to be "pirates")<br />
 https://github.com/finleyexp/argsite<br />
 
-ZEEMZ: ARG token & wallet (info only)<br />
+ZEEMZ: ARG token & wallet (Info only)<br />
 (exploring anonymous tokens for "pirates")<br />
 https://github.com/finleyexp/args<br />
 https://github.com/finleyexp/argswallet<br />
