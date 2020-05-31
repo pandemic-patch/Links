@@ -19,8 +19,9 @@ ZEEMZ: Pandemic Patch v.0 [development]<br />
 (Converted faucet for COVID19 Global Hackathon)<br />
 https://github.com/pushingbhutons/zeemzPandemic<br />
 
-ZEEMZ: Pandemic Patch v.1 [LIVE - coming soon]
-
+ZEEMZ: Pandemic Patch v.1 [LIVE - WIP]<br />
+https://www.zeemz.xyz/pandemic-patch<br />
+https://pandemic.zeemz.xyz (coming soon)<br />
 
 ZEEMZ: Pandemic Patch [IRIS-COVID development]<br />
 (IRIS-VA becomes IRIS-med to fight COVID / built for COVIDathon)<br />
