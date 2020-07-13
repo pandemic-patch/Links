@@ -51,6 +51,10 @@ ZEEMZ: The Kitty Vortex<br />
 (CryptoKitties Integration using their preAlpha Flow blockchain & Cadence language)<br />
 https://github.com/pushingbhutons/kittyVortex<br />
 
+ZEEMZ: Space Observatory #1 (Earth Station Starboard View Port)<br />
+(echoAR - augmented reality integration)
+https://go.echoar.xyz/ihm4
+
 ZEEMZ: Adventures Multifaucet<br />
 (Original disaster preparedness faucet to be triggered by player actions in ZEEMZ game map)<br />
 https://faucet.zeemz.xyz<br />
